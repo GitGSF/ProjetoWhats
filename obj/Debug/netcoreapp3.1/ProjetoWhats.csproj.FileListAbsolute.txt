@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\bin\Debug\netcoreapp3.1\ProjetoWhats.exe
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\bin\Debug\netcoreapp3.1\ProjetoWhats.deps.json
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\bin\Debug\netcoreapp3.1\ProjetoWhats.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\bin\Debug\netcoreapp3.1\ProjetoWhats.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\bin\Debug\netcoreapp3.1\ProjetoWhats.dll
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\bin\Debug\netcoreapp3.1\ProjetoWhats.pdb
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\obj\Debug\netcoreapp3.1\ProjetoWhats.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\obj\Debug\netcoreapp3.1\ProjetoWhats.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\obj\Debug\netcoreapp3.1\ProjetoWhats.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\obj\Debug\netcoreapp3.1\ProjetoWhats.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\obj\Debug\netcoreapp3.1\ProjetoWhats.dll
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\obj\Debug\netcoreapp3.1\ProjetoWhats.pdb
+C:\Users\Dark_Cheedar\Desktop\ProjetoWhats\obj\Debug\netcoreapp3.1\ProjetoWhats.genruntimeconfig.cache
