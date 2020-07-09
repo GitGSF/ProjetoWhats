@@ -3,8 +3,8 @@ namespace ProjetoWhats
 {
     public interface IAgenda
     {
-        void Listar(Contato cont);
         void AdicionarContato(Contato cont);
         void Deletar(string _nome);
+        void Listar(Contato cont);
     }
 }

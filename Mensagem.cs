@@ -6,7 +6,8 @@ namespace ProjetoWhats
         public string Destinatario { get; set; }
         public void Enviar()
         {
-            System.Console.WriteLine("Enviar mensagem para: "+ Destinatario );
+            System.Console.WriteLine("Olá "+ Destinatario +",Programação Orientada a Ódio." );
+            
         }
     }
 }
